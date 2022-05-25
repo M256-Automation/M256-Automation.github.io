@@ -12,9 +12,8 @@ Technologies, languages, environments and protocols:
 Mainly:
 - PLC
 - PLCnext Technology
-- HMI
-
 Also:
+- HMI
 - SCADA
 - Arduino
 - Raspberry Pi
@@ -24,10 +23,10 @@ Also:
 Mainly:
 - PLCnext Engineer
 - PcWorx / AutomationWorx
-
 Also:
 - Visu+
 - Movicon
+- WebVisit
 - CoDeSys
 - Step7
 - TIA Portal
@@ -39,7 +38,6 @@ Also:
 ### Languages
 Mainly:
 - IEC 61161-3
-
 Also:
 - C/C++
 - Python
@@ -47,11 +45,13 @@ Also:
 - HTML
 
 ### Protocols
+Mainly:
 - Modbus TCP
 - Modbus RTU
-- Profinet
-- Profibus
 - IEC 60870-5-104
+- Profinet
+Also: 
+- Profibus
 - OPC DA
 - OPC UA
 - HTTP
