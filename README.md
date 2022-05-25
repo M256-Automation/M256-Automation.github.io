@@ -10,11 +10,8 @@ Ten years of experience in Industrial Automation as
 ---
 
 ### Platforms
-Mainly:
-- PLC
-- PLCnext Technology
-
-Also:
+- **PLC**
+- **PLCnext Technology**
 - HMI
 - SCADA
 - Single-board microcontroller
@@ -23,11 +20,8 @@ Also:
 ---
 
 ### Development Environments
-Mainly:
-- PLCnext Engineer
-- PcWorx / AutomationWorx
-
-Also:
+- **PLCnext Engineer**
+- **PcWorx / AutomationWorx**
 - Visu+
 - Movicon
 - WebVisit
@@ -40,10 +34,7 @@ Also:
 ---
 
 ### Languages
-Mainly:
-- IEC 61161-3
-
-Also:
+- **PLC Languages (IEC 61161-3)**
 - C/C++
 - Python
 - Javascript
@@ -52,13 +43,10 @@ Also:
 ---
 
 ### Protocols
-Mainly:
-- Modbus TCP
-- Modbus RTU
-- IEC 60870-5-104
-- Profinet
-
-Also: 
+- **Modbus TCP**
+- **Modbus RTU**
+- **IEC 60870-5-104**
+- **Profinet**
 - Profibus
 - OPC DA
 - OPC UA
@@ -68,13 +56,12 @@ Also:
 ---
 
 ### Databases
-- SQLite
-- Influxdb
+- **SQLite**
+- **Influxdb**
 
 ---
 
 ### Operating Systems
-- Linux
-- Windows
+- **Linux**
+- **Windows**
 
----
