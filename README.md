@@ -1,10 +1,7 @@
-
-\
-\
-\
 ### Studies and experience
 
 Bachelor's degree in Automation Engineering at Politecnico di Milano.
+
 Ten years of experience in Industrial Automation.
 
 
