@@ -13,9 +13,7 @@ Mainly:
 Also:
 - HMI
 - SCADA
-- Arduino
-- Raspberry Pi
-- ESP32
+- Single-board microcontroller
 
 ### Development Environments
 Mainly:
@@ -30,8 +28,6 @@ Also:
 - Step7
 - TIA Portal
 - Node-RED
-- Processing
-- Arduino IDE
 - Eclipse IDE for C/C++
 
 ### Languages
