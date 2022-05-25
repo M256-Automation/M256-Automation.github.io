@@ -2,11 +2,11 @@
 \
 \
 \
-Ten years of experience in Industrial Automation.
+### Studies and experience
 
 Bachelor's degree in Automation Engineering at Politecnico di Milano.
+Ten years of experience in Industrial Automation.
 
-Technologies, languages, environments and protocols:
 
 ### Platforms
 Mainly:
