@@ -4,8 +4,8 @@ Bachelor's degree in Automation Engineering at Politecnico di Milano.
 
 Ten years of experience in Industrial Automation as
 - Software Developer for PLC, HMI and SCADA
-- Commissioining technician
-- Technical support
+- Commissioning Technician
+- Technical Support
 
 ---
 
