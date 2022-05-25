@@ -7,6 +7,7 @@ Ten years of experience in Industrial Automation as
 - Commissioining technician
 - Technical support
 
+---
 
 ### Platforms
 Mainly:
@@ -18,6 +19,8 @@ Also:
 - SCADA
 - Single-board microcontroller
 - Single-board computer
+
+---
 
 ### Development Environments
 Mainly:
@@ -34,6 +37,8 @@ Also:
 - Node-RED
 - Eclipse IDE for C/C++
 
+---
+
 ### Languages
 Mainly:
 - IEC 61161-3
@@ -43,6 +48,8 @@ Also:
 - Python
 - Javascript
 - HTML
+
+---
 
 ### Protocols
 Mainly:
@@ -58,9 +65,13 @@ Also:
 - MQTT
 - HTTP
 
+---
+
 ### Databases
 - SQLite
 - Influxdb
+
+---
 
 ### Operating Systems
 - Linux
