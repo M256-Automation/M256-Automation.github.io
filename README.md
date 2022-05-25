@@ -8,21 +8,23 @@ Bachelor's degree in Automation Engineering at Politecnico di Milano.
 
 Technologies, languages, environments and protocols:
 
-# Platforms
+### Platforms
 Mainly:
 - PLC
 - PLCnext Technology
 - HMI
+
 Also:
 - SCADA
 - Arduino
 - Raspberry Pi
 - ESP32
 
-# Development Environments
+### Development Environments
 Mainly:
 - PLCnext Engineer
 - PcWorx / AutomationWorx
+
 Also:
 - Visu+
 - Movicon
@@ -34,16 +36,17 @@ Also:
 - Arduino IDE
 - Eclipse IDE for C/C++
 
-# Languages
+### Languages
 Mainly:
 - IEC 61161-3
+
 Also:
 - C/C++
 - Python
 - Javascript
 - HTML
 
-# Protocols
+### Protocols
 - Modbus TCP
 - Modbus RTU
 - Profinet
@@ -53,11 +56,11 @@ Also:
 - OPC UA
 - HTTP
 
-# Databases
+### Databases
 - SQLite
 - Influxdb
 
-# Operating Systems
+### Operating Systems
 - Linux
 - Windows
 
