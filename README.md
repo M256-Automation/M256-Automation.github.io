@@ -51,6 +51,7 @@ Also:
 - Profibus
 - OPC DA
 - OPC UA
+- MQTT
 - HTTP
 
 ### Databases
