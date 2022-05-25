@@ -14,6 +14,7 @@ Also:
 - HMI
 - SCADA
 - Single-board microcontroller
+- Single-board computer
 
 ### Development Environments
 Mainly:
