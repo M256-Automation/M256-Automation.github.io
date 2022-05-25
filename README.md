@@ -12,6 +12,7 @@ Technologies, languages, environments and protocols:
 Mainly:
 - PLC
 - PLCnext Technology
+
 Also:
 - HMI
 - SCADA
@@ -23,6 +24,7 @@ Also:
 Mainly:
 - PLCnext Engineer
 - PcWorx / AutomationWorx
+
 Also:
 - Visu+
 - Movicon
@@ -38,6 +40,7 @@ Also:
 ### Languages
 Mainly:
 - IEC 61161-3
+
 Also:
 - C/C++
 - Python
@@ -50,6 +53,7 @@ Mainly:
 - Modbus RTU
 - IEC 60870-5-104
 - Profinet
+
 Also: 
 - Profibus
 - OPC DA
